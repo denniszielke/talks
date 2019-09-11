@@ -1,5 +1,11 @@
 # Talk
 
+## Insights into Applications and Infrastructure
+
+Monitoring and Logging: https://www.youtube.com/watch?v=RjsNmapggPU
+
+Application Insights Demo: https://github.com/denniszielke/phoenix/blob/master/challenges.4.md
+
 ## Kubernetes Security
 
 More: https://github.com/azure/k8s-best-practices
